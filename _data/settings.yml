@@ -75,9 +75,9 @@ font_settings:
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 18
-    medium_size: 21
-    large_size: 24
+    small_size: 19
+    medium_size: 22
+    large_size: 26
     weight: 400
     letter_spacing: 0
   site_tagline:
