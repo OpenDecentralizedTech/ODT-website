@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Open Decentralized Tech
-  site_tagline: -- <b>Site Now Under Construction</b> --
+  site_tagline: <b>Site Under Construction</b>
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -30,8 +30,10 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
+  flickr_url: 'https://flickr.com/photos/gerbug/'
   twitter_url: 'https://twitter.com/jrmchale/'
-  instagram_url: ''
+  spotify_url: 'https://open.spotify.com/user/j.r.mac/'
+  instagram_url: 'https://www.instagram.com/jrmchale/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -48,11 +50,9 @@ social_settings:
   deviantart_url: ''
   github_url: 'https://github.com/OpenDecentralizedTech/'
   reddit_url: ''
-  flickr_url: 'https://www.flickr.com/photos/gerbug/'
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
-  spotify_url: 'https://open.spotify.com/user/j.r.mac/'
   bandcamp_url: ''
   linkedin_url: ''
 
