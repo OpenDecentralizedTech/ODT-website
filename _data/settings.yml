@@ -31,8 +31,8 @@ contact_settings:
 social_settings:
   facebook_url: ''
   flickr_url: 'https://flickr.com/photos/gerbug/'
-  twitter_url: 'https://twitter.com/jrmchale/'
   instagram_url: 'https://instagram.com/jrmchale/'
+  twitter_url: 'https://twitter.com/jrmchale/'
   spotify_url: 'https://open.spotify.com/user/j.r.mac/'
   snapchat_url: ''
   youtube_url: ''
@@ -75,9 +75,9 @@ font_settings:
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 20
-    medium_size: 23
-    large_size: 27
+    small_size: 24
+    medium_size: 27
+    large_size: 31
     weight: 400
     letter_spacing: 0
   site_tagline:
