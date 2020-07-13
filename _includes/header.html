@@ -17,7 +17,8 @@
 		</a>
 		{% endif %}
 
-		<p>
+		<p class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</p>
+		
 		<ul class="socials">
 	{% for url in site.data.settings.social_settings %}
 	{% if url[1] != '' %}
@@ -29,10 +30,6 @@
 	{% endif %}
 	{% endfor %}
 </ul>
-		</p>
-	
-		<p class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</p>
-		
 
 		<div class="menu">
 			<div class="menu__toggle js-menu-toggle">
